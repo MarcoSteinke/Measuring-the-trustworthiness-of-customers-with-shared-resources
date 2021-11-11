@@ -9,4 +9,6 @@ This repository will discuss an algorithm which can be used to find metrics whic
 
 By signing both, a set of small trees can be generated for each resource (= material, e.g. slides or a video URL).
 
+This method will not be 100% accurate due to changing devices by the customer and multiple requests on the same resources. There may be possibilities to weight the metric by a factor which estimately represents the customers request behaviour with a resource.
+
 #### TODO
