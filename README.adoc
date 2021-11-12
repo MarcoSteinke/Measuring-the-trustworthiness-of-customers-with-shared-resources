@@ -11,4 +11,18 @@ By signing both, a set of small trees can be generated for each resource (= mate
 
 This method will not be 100% accurate due to changing devices by the customer and multiple requests on the same resources. There may be possibilities to weight the metric by a factor which estimately represents the customers request behaviour with a resource.
 
+## Scenario:
+
+Imagine being a teacher or content creator. But you do not upload your content to websites such as YouTube to make it completely public. You would use the "hidden" or "private" settings, which leads to the following cases:
+
+- 1. hidden:
+* Your video is hidden, but customers who received the URL can share this URL to other customers which are not willing to pay for the video.
+
+- 2. private:
+* If you set a video on private, you will have to ask each customer for their YouTube email address. You could solve this programmatically but in general the YouTube workflow for private videos is not flawless.
+
+Thus you may want to upload videos on a personal website where each user registers, so they can use their accounts to access the videos. 
+
+You may have experienced the concern of account sharing. People who are using your services share their accounts to give their friends or co-workers the possibility to also access the materials.
+
 #### TODO
